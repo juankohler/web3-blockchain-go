@@ -9,7 +9,6 @@ import (
 )
 
 func main() {
-
 	/** Create blockchain */
 	blockchain := blockchains.CreateBlockchain()
 
